@@ -1,0 +1,7 @@
+node_modules/
+.cache/
+*.pack
+*.log
+.env
+dist/
+build/

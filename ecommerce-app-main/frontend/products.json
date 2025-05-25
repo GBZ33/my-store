@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Men's Classic Fit Tee - Slate Gray",
+    "price": 22.99,
+    "imageURL": "https://source.unsplash.com/300x300/?tshirt,men,gray",
+    "description": "Soft cotton t-shirt in slate gray with a comfortable classic fit. Perfect for casual wear.",
+    "categoryId": "64f7e3e0160105e1c23b0b50"
+  },
+  {
+    "name": "Men's Athletic Polo - Navy",
+    "price": 28.49,
+    "imageURL": "https://source.unsplash.com/300x300/?polo,men,navy",
+    "description": "Breathable navy blue polo ideal for both sports and everyday wear.",
+    "categoryId": "64f7e3e0160105e1c23b0b50"
+  },
+  {
+    "name": "Men's V-Neck T-Shirt - Black",
+    "price": 19.99,
+    "imageURL": "https://source.unsplash.com/300x300/?vneck,men,black",
+    "description": "Modern black V-neck made with premium stretch fabric. A wardrobe essential.",
+    "categoryId": "64f7e3e0160105e1c23b0b50"
+  },
+  {
+    "name": "Men's Long Sleeve Henley - Olive",
+    "price": 25.00,
+    "imageURL": "https://source.unsplash.com/300x300/?henley,men,green",
+    "description": "Olive green long sleeve Henley with buttoned collar. Great for layering.",
+    "categoryId": "64f7e3e0160105e1c23b0b50"
+  },
+  {
+    "name": "Men's Crewneck Tee - White",
+    "price": 18.75,
+    "imageURL": "https://source.unsplash.com/300x300/?crewneck,men,white",
+    "description": "Crisp white tee crafted with soft, breathable fabric for all-day wear.",
+    "categoryId": "64f7e3e0160105e1c23b0b50"
+  },
+  {
+    "name": "Men's Eco T-Shirt - Earth Brown",
+    "price": 20.99,
+    "imageURL": "https://source.unsplash.com/300x300/?tshirt,eco,brown",
+    "description": "Sustainable cotton t-shirt with eco-conscious dyes. Earth-tone minimalism.",
+    "categoryId": "64f7e3e0160105e1c23b0b50"
+  },
+
+  {
+    "name": "Women's Relaxed Fit Tee - Coral Pink",
+    "price": 21.90,
+    "imageURL": "https://source.unsplash.com/300x300/?tshirt,women,pink",
+    "description": "Light and airy coral pink tee with a relaxed fit and rolled sleeves.",
+    "categoryId": "64f7e3f5160105e1c23b0b52"
+  },
+  {
+    "name": "Women's Crop Top - Sky Blue",
+    "price": 24.50,
+    "imageURL": "https://source.unsplash.com/300x300/?crop-top,women,blue",
+    "description": "Trendy crop top in sky blue. Made for comfort and style on sunny days.",
+    "categoryId": "64f7e3f5160105e1c23b0b52"
+  },
+  {
+    "name": "Women's V-Neck Tee - Soft Lavender",
+    "price": 23.00,
+    "imageURL": "https://source.unsplash.com/300x300/?vneck,women,purple",
+    "description": "Feminine V-neck with a silky feel in a beautiful lavender shade.",
+    "categoryId": "64f7e3f5160105e1c23b0b52"
+  },
+  {
+    "name": "Women's Graphic Tee - White Rose",
+    "price": 26.30,
+    "imageURL": "https://source.unsplash.com/300x300/?graphic,tee,women",
+    "description": "White tee with minimalist rose print. A blend of simplicity and art.",
+    "categoryId": "64f7e3f5160105e1c23b0b52"
+  },
+  {
+    "name": "Women's Sleeveless Tee - Beige",
+    "price": 19.80,
+    "imageURL": "https://source.unsplash.com/300x300/?sleeveless,women,beige",
+    "description": "Beige sleeveless top made with ultra-soft jersey for lightweight layering.",
+    "categoryId": "64f7e3f5160105e1c23b0b52"
+  },
+  {
+    "name": "Women's Activewear Top - Wine Red",
+    "price": 27.95,
+    "imageURL": "https://source.unsplash.com/300x300/?activewear,women,red",
+    "description": "High-performance athletic tee in rich wine red for gym or street style.",
+    "categoryId": "64f7e3f5160105e1c23b0b52"
+  },
+
+  {
+    "name": "Kids' Play Tee - Aqua Blue",
+    "price": 14.99,
+    "imageURL": "https://source.unsplash.com/300x300/?tshirt,kids,blue",
+    "description": "Fun aqua blue t-shirt for active kids. Durable, soft, and washable.",
+    "categoryId": "64f7e3fe160105e1c23b0b54"
+  },
+  {
+    "name": "Kids' Cartoon Tee - Yellow",
+    "price": 16.50,
+    "imageURL": "https://source.unsplash.com/300x300/?cartoon,tshirt,kids",
+    "description": "Yellow kids tee with playful cartoon character prints. 100% cotton.",
+    "categoryId": "64f7e3fe160105e1c23b0b54"
+  },
+  {
+    "name": "Kids' Colorblock T-Shirt - Red & White",
+    "price": 17.20,
+    "imageURL": "https://source.unsplash.com/300x300/?colorblock,kids,shirt",
+    "description": "Bold red and white colorblock style shirt. Ideal for weekend fun.",
+    "categoryId": "64f7e3fe160105e1c23b0b54"
+  },
+  {
+    "name": "Kids' Graphic Tee - Green Dino",
+    "price": 18.00,
+    "imageURL": "https://source.unsplash.com/300x300/?dinosaur,kids,tshirt",
+    "description": "Bright green t-shirt with a cute dinosaur print. A favorite among kids!",
+    "categoryId": "64f7e3fe160105e1c23b0b54"
+  },
+  {
+    "name": "Kids' Long Sleeve Shirt - Ocean Gray",
+    "price": 19.95,
+    "imageURL": "https://source.unsplash.com/300x300/?longsleeve,kids,gray",
+    "description": "Ocean gray long sleeve t-shirt, perfect for cooler play days.",
+    "categoryId": "64f7e3fe160105e1c23b0b54"
+  },
+  {
+    "name": "Kids' Active Tee - Neon Orange",
+    "price": 15.75,
+    "imageURL": "https://source.unsplash.com/300x300/?activewear,kids,orange",
+    "description": "High-visibility neon orange t-shirt. Great for sports and outdoor play.",
+    "categoryId": "64f7e3fe160105e1c23b0b54"
+  }
+]
